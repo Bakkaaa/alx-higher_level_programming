@@ -9,5 +9,5 @@ if number > 5:
 elif number == 0:
     str = "and is 0"
 else:
-    str = "and is less than 6 and not 0" 
+    str = "and is less than 6 and not 0"
 print(f"Last digit of {number} is {last} {str}")
